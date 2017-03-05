@@ -49,4 +49,3 @@ if __name__ == '__main__':
         else:
             print "User A :", username_a, "and User B :", username_b, "have the same number of words in their last 10 tweets!!"
 
-#fayskorda
